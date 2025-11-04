@@ -15,7 +15,7 @@ This is my personal portfolio website, built to showcase my work in data science
 - Image overlays and hover effects for an interactive layout
 - Pics from my travels for some ambiance!
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Styling:** Custom responsive design based on HTML5UP template
 - **Backend/Form Handling:** [Formspree.io](https://formspree.io/)
